@@ -1,4 +1,4 @@
-🎉 Bienvenidos a las fiestas del pueblo! Únete a celebrar con música, comida y actividades para todos.
+🎉 Bienvenidos a las fiestas de Moncalian! Únete a celebrar con música, comida y actividades para todos.
 
 ---
 
@@ -6,80 +6,53 @@
 
 ### Domingo 2 de Agosto
 
-| Hora | Actividad | Descripción | Presupuesto (€) |
-|------|-----------|-------------|-----------------|
-| 17:00 | 🎺 Apertura de las fiesta | Inauguración oficial con música | **0 €** |
-| 21:00 | 🎷 Solo Saxo | Espectáculo musical (IVA incluido) | **5.808 €** |
-| 23:00 | 💃 Hnos Cosió | Orquesta para verbena (IVA incluido) | **2.783 €** |
+| Hora  | Actividad                 | Notas                  |
+|-------|---------------------------|------------------------|
+| 20:00 | 🍖 Asado                  | Apertura de fiestas    |
+| 23:00 | 💃 Actuacion              | Pendiente confirmar    |
+| 01:00 | 🎛️ DJ                    | Pendiente de confirmar |
 
-**Total Domingo:** | | | **8.591 €** |
 
 ### Lunes 3 de Agosto
 
-| Hora | Actividad | Descripción | Presupuesto (€) |
-|------|-----------|-------------|-----------------|
-| 12:00 | 🍖 Comida popular | Banquete comunitario para todos | **350 €** |
-| 19:00 | 💃🕺 Verbena popular | Baile tradicional con orquesta | **0 €** |
-**Total Lunes:** | | | **350 €** |
-
----
-
-## 💰 **Gastos Comunes (2 días)**
-
-| Concepto | Descripción | Presupuesto (€) |
-|----------|-------------|-----------------|
-| 🍺 **Distribución bebidas** | Suministro de cerveza Alhambra | **2.500 €** |
-| 🎈 **Hinchables infantiles** | 2 hinchables disponibles ambos días | **484 €** |
-| 🛒 **Material varios** | Decoración, utensilios, logística | **500 €** |
-| 🚚 **Transporte** | Muebles, equipos, materiales | **350 €** |
-| ⚡ **Luz y electricidad** | Instalaciones eléctricas | **200 €** |
-| 🧹 **Limpieza** | Servicio de limpieza post-fiesta | **300 €** |
-
-**Total Gastos Comunes:** | | **4.334 €** |
-
----
-
-## 📊 **Resumen Presupuestario**
-
-| Concepto | Importe |
-|----------|---------|
-| **Domingo 2 de Agosto** | **8.591 €** |
-| **Lunes 3 de Agosto** | **350 €** |
-| **Gastos Comunes (2 días)** | **4.334 €** |
-| **🟰 TOTAL GENERAL** | **13.275 €** |
+| Hora  | Actividad      | Notas                       |
+|-------|----------------|-----------------------------|
+| 12:00 | ⛪ Misa         |                             |
+| 13:00 | 🍷 Blanqueo    |                             |
+| 15:00 | 🧸 Hinchables  |                             |
+| 15:00 | 🎨 Pinta caras | A cargo de hijas de Maribel |
+| 21:00 | 💃🕺 Actuación | Los rumbeños                |
 
 ---
 
 ## 🍺 Encargados del Bar
 
-Tenemos que ver numero mínimo de personas en el bar y cada cuanto hacemos las rotaciones
-
 ### Domingo 2 de Agosto
 
-| Hora           | Responsable | Estado |
-|----------------|-------------|--------|
-| Montar         | Por asignar | ⏳ Pendiente |
-| 18:00 - 19:00  | Por asignar | ⏳ Pendiente |
-| 19:00 - 21:00  | Por asignar | ⏳ Pendiente |
-| 21:00 - 23:00  | Por asignar | ⏳ Pendiente |
-| 21:00 - cierre | Por asignar | ⏳ Pendiente |
+| Hora           | Responsable     | Estado     |
+|----------------|-----------------|------------|
+| Montar         | Por asignar     | ⏳ Pendiente |
+| 18:00 - 21:00  | Alberto / Sara  | ✅ Confirmado  |
+| 21:00 - 00:00  | Bea / Cesar     | ✅ Confirmado |
+| 00:00 - Cierre | Francis / Mikel | ✅ Confirmado |
 
 ### Lunes 3 de Agosto
 
-| Hora          | Responsable | Estado |
-|---------------|-------------|--------|
-| 12:00 - 14:00 | Por asignar | ⏳ Pendiente |
-| 14:00 - 16:00 | Por asignar | ⏳ Pendiente |
-| 16:00 - 18:00 | Por asignar | ⏳ Pendiente |
-| 18:00 - 20:00 | Por asignar | ⏳ Pendiente |
-| 20:00 - 22:00 | Por asignar | ⏳ Pendiente |
-| Desmontar     | Por asignar | ⏳ Pendiente |
+| Hora                | Responsable       | Estado |
+|---------------------|-------------------|--------|
+| 11:30 - 15:00       | Maribel / Maitane | ⏳ Pendiente |
+| 15:00 - 19:00       | Bea / Cesar       | ✅ Confirmado  |
+| 19:00 - 23:00       | Sara / Francis    | ✅ Confirmado  |
+| 23:00 - Cierre | Alberto / Mikel   | ✅ Confirmado  |
+| Desmontar           | Por asignar       | ⏳ Pendiente |
 
 ---
 
 ## ℹ️ Información Adicional
 
 - 📍 **Lugar:** Plaza del Pueblo
+- 🎽 Hay que presentar propuestas tanto para vasos como para camisetas de las fiestas.
+- 🎵 Alberto facilitará el equipo de sonido para el bar en las horas en los que no haya actuaciones
 
 ---
 
