@@ -6,11 +6,12 @@
 
 ### Domingo 2 de Agosto
 
-| Hora  | Actividad                 | Notas                  |
-|-------|---------------------------|------------------------|
-| 20:00 | 🍖 Asado                  | Apertura de fiestas    |
-| 23:00 | 💃 Actuacion              | Pendiente confirmar    |
-| 01:00 | 🎛️ DJ                    | Pendiente de confirmar |
+| Hora  | Actividad    | Notas                  |
+|-------|--------------|------------------------|
+| 20:00 | 🍖 Asado     | Apertura de fiestas    |
+| 23:00 | 💃 Actuacion | Pendiente confirmar    |
+| ??    | 🥳 Bingo     | Pendiente confirmar    |
+| 01:00 | 🎛️ DJ       | Pendiente de confirmar |
 
 
 ### Lunes 3 de Agosto
@@ -18,9 +19,9 @@
 | Hora  | Actividad      | Notas                       |
 |-------|----------------|-----------------------------|
 | 12:00 | ⛪ Misa         |                             |
-| 13:00 | 🍷 Blanqueo    |                             |
-| 15:00 | 🧸 Hinchables  |                             |
+| 13:00 | 🍷 Blanqueo    | Danzantes de Gama           |
 | 15:00 | 🎨 Pinta caras | A cargo de hijas de Maribel |
+| 16:00 | 🧸 Hinchables  |                             |
 | 21:00 | 💃🕺 Actuación | Los rumbeños                |
 
 ---
