@@ -6,23 +6,26 @@
 
 ### Domingo 2 de Agosto
 
-| Hora  | Actividad    | Notas                  |
-|-------|--------------|------------------------|
-| 20:00 | 🍖 Asado     | Apertura de fiestas    |
-| 23:00 | 💃 Actuacion | Pendiente confirmar    |
-| ??    | 🥳 Bingo     | Pendiente confirmar    |
-| 01:00 | 🎛️ DJ       | Pendiente de confirmar |
+| Hora              | Actividad     | Notas     |
+|-------------------|---------------|-----------|
+| 20:00             | 🍖 Asado      | Apertura de fiestas |
+| 20:30             | 🎙️ Actuación | María     |
+| 22:30 - 1:30      | 🎷 Actuación  | Solo Saxo |
+| entre actuaciones | 🥳 Bingo      |  |
+| 1:30              | 🎛️ DJ        | Musica Alberto |
 
 
 ### Lunes 3 de Agosto
 
-| Hora  | Actividad      | Notas                       |
-|-------|----------------|-----------------------------|
-| 12:00 | ⛪ Misa         |                             |
-| 13:00 | 🍷 Blanqueo    | Danzantes de Gama           |
-| 15:00 | 🎨 Pinta caras | A cargo de hijas de Maribel |
-| 16:00 | 🧸 Hinchables  |                             |
-| 21:00 | 💃🕺 Actuación | Los rumbeños                |
+| Hora  | Actividad          | Notas                       |
+|-------|--------------------|-----------------------------|
+| 12:00 | ⛪ Misa y procesión | con danzantes               |
+| 13:00 | 🍷 Blanqueo        | con danzantes               |
+| 16:00 | 🎨 Pinta caras     | A cargo de hijas de Maribel |
+| 16:00 | 🧸 Hinchables      |                             |
+| 19:00 | 🎙️ Actuación | Raul Campo                  |
+| 21:30 | 💃🕺 Actuación     | Los cosio                   |
+| 22:30 | 💃🕺 Actuación     | Alhambra                    |
 
 ---
 
@@ -39,13 +42,13 @@
 
 ### Lunes 3 de Agosto
 
-| Hora                | Responsable       | Estado      |
-|---------------------|-------------------|-------------|
-| 11:30 - 15:00       | Maribel / Maitane | ✅ Confirmado |
-| 15:00 - 19:00       | Bea / Cesar       | ✅ Confirmado |
-| 19:00 - 23:00       | Sara / Francis    | ✅ Confirmado |
-| 23:00 - Cierre | Alberto / Mikel   | ✅ Confirmado |
-| Desmontar           | Por asignar       | ⏳ Pendiente |
+| Hora                | Responsable           | Estado      |
+|---------------------|-----------------------|-------------|
+| 11:30 - 15:00       | Maribel / Maitane     | ✅ Confirmado |
+| 15:00 - 19:00       | Bea / Cesar           | ✅ Confirmado |
+| 19:00 - 23:00       | Sara / Francis / Bego | ✅ Confirmado |
+| 23:00 - Cierre | Alberto / Mikel       | ✅ Confirmado |
+| Desmontar           | Por asignar           | ⏳ Pendiente |
 
 
 ### Bebidas
